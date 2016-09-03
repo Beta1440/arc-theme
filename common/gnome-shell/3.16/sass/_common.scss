@@ -1472,7 +1472,7 @@ StScrollBar {
   .right & .overview-icon,
   .bottom & .overview-icon,
   .top & .overview-icon {
-    padding: 10px;
+    padding: 7px;
   }
 
   &:hover .overview-icon,
@@ -1491,9 +1491,9 @@ StScrollBar {
   }
 
   &-running-dot {
-    width: 11px;
+    width: 8px;
     height: 2px;
-    margin-bottom: 6px;
+    margin-bottom: 3px;
     background-color: $selected_bg_color;
   }
 }

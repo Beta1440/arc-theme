@@ -1486,24 +1486,24 @@ StScrollBar {
 
 
 #dash .app-well-app .overview-icon {
-    padding: 10px;
-    padding-left: 13px;
+    padding: 7px;
+    padding-left: 10px;
 }
 
 .right #dash .app-well-app .overview-icon,
 #dash:rtl .app-well-app .overview-icon {
-    padding: 10px;
-    padding-right: 13px;
+    padding: 7px;
+    padding-right: 10px;
 }
 
 .bottom #dash .app-well-app .overview-icon {
-    padding: 10px;
-    padding-bottom: 13px;
+    padding: 7px;
+    padding-bottom: 10px;
 }
 
 .top #dash .app-well-app .overview-icon {
-    padding: 10px;
-    padding-top: 13px;
+    padding: 7px;
+    padding-top: 10px;
 }
 
 
@@ -1599,7 +1599,7 @@ StScrollBar {
 .show-apps .overview-icon {
     background-gradient-direction: none !important;
 
-    padding: 11px;
+    padding: 8px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 2px;
     border: 0px solid;
