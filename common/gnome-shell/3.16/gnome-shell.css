@@ -1157,7 +1157,7 @@ StScrollBar {
 .right #dash .app-well-app .overview-icon,
 .bottom #dash .app-well-app .overview-icon,
 .top #dash .app-well-app .overview-icon {
-  padding: 10px; }
+  padding: 7px; }
 
 #dash .app-well-app:hover .overview-icon,
 .right #dash .app-well-app:hover .overview-icon,
@@ -1173,9 +1173,9 @@ StScrollBar {
   background-color: #2679db; }
 
 #dash .app-well-app-running-dot {
-  width: 11px;
+  width: 8px;
   height: 2px;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   background-color: #5294E2; }
 
 #dashtodockContainer .app-well-app-running-dot {
